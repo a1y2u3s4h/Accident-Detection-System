@@ -28,6 +28,6 @@ def startapplication():
             return
         cv2.imshow('Video', frame)  
 
-
+4
 if __name__ == '__main__':
     startapplication()
